@@ -1,3 +1,40 @@
+# Welcome to my Portfolio
+
+## Table of Contents
+
+1. Professional Self-Assessment
+2. Code Review
+3. Artifact 1 3D Scene: Software Design and Engineering Enhancement
+4. Artifact 2 Dashboard App: Algorithms and Data Structure Enhancement and Databases Enhancement
+
+
+## 1. Professional Self-Assessment
+
+
+
+
+## 2. Code Review
+
+The code review video is hosted on Youtube and can be found [here](https://youtu.be/HdGaUHY0N-U).
+
+
+## 3. Artifact 1 3D Scene: Software Design and Engineering Enhancement
+
+[Download Artifact 1 - Original](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%201%20-%20Original.zip)
+### Download Artifact 1 - Enhanced
+
+### Narrative
+
+
+## 4. Artifact 2 Dashboard App: Algorithms and Data Structure Enhancement and Databases Enhancement
+
+[Download Artifact 2 - Original](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%202%20-%20Original.zip)
+### Download Artifact 2 - Enhanced
+
+### Narrative
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DavidGreene52/DavidGreene52.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
