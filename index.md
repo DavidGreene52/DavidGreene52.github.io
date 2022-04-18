@@ -10,7 +10,9 @@
 
 ## 1. Professional Self-Assessment
 
-
+  While in the computer science program, the first thing I have learned is that creating a program isn’t just about accomplishing what you sent out to do but to do that while also managing cost, time, limitations, and client needs. Within this program/field the ability to apply the current industry best practices when using comments and formatting allows for not only you being able to work with your code more efficiently but also enables easy collaboration and communication. Specifically learning how to utilize data structure, algorithms, and databases to create a display that everyone can use has been very eye opening in teaching me the importance of coding with the audience/users of your program’s experience in mind. Throughout this program and especially through the making of this portfolio I have learned that when developing code, a security-based mindset and practices are essential to every section of code as they help prevent bugs, vulnerabilities, and data loss in more places than most would think.
+  
+  The more time I spent within this program my passion for programming kept growing and I am now aiming for a job as a software developer where that is a major focus of coding. In order to showcase my computer science skills related to this goal I will be focusing on two artifacts throughout this portfolio. These artifacts complement each other in displaying a diverse amount of my skills because Artifact 1 mainly shows my skill to create efficient code while Artifact 2 shows my skill to create a more complicated program involving multiple levels.  Artifacts 1 and 2 show my abilities to use data structures, algorithms, software engineering, and databases to accomplish specific program goals that follow industry standard practices.
 
 
 ## 2. Code Review
@@ -21,54 +23,33 @@ The code review video is hosted on Youtube and can be found [here](https://youtu
 ## 3. Artifact 1 3D Scene: Software Design and Engineering Enhancement
 
 [Download Artifact 1 - Original](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%201%20-%20Original.zip)
-### Download Artifact 1 - Enhanced
 
-### Narrative
+[Download Artifact 1 - Enhanced](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%201%20-%20Enhanced.zip)
+
+  Artifact 1 is a project that recreates a picture of a 3D scene by rendering multiple different objects and applying the appropriate positions, textures, and lighting to those objects. At the time of writing this narrative this artifact was created about eight months ago in a class called Computational Graphics and Visualization.
+  
+  The reason that I selected this project was because for me it is one of the toughest projects that I have ever worked on, and I struggled with the different aspects involved. By choosing to enhance this item I can revisit this challenge and show just how much I have improved since initially creating it. The first component of my project that I will point out is the URender() function because it showcases multiple of my skills and abilities that are important for anyone in software development. The first ability shown is the capability to call upon all the necessary code written throughout the program to apply all the necessary transformations, textures, lightings, and viewing to each of the rendered objects. This showcases my skill to manipulate and implement standard coding practices to achieve my goal of rendering a semi-realistic 3D scene. The next component of my project that I will mention is the UProcessInput() function and the following UMouse functions because they showcase my ability to implement one of the most basic and necessary skills in software engineering which is adding input devices to control the software and in this case navigate the 3D scene. Without the skill to do this then this entire project becomes basically useless just like most future projects I will be working on so seeing me put this skill in action is very important for those viewing this.
+  
+  The first enhancement involved improving some of the comments, partly by removing all the unnecessary ones that only created clutter within the code, and formatting throughout the project by following the industry standard recommendations/practices which shows my abilities in allowing for me to collaborate with coworkers more easily in the field and with those outside the field without related knowledge. The next improvement was the addition of more input devices so that every user will hopefully have familiar controls to navigate the scene, again making collaboration easier. The major enhancement I did to this artifact was reducing the size of the project or more specifically reducing the size of the mesh function by introducing some modular code, which is an extremely necessary skill in this field, that will reuse some of the code by continuously transforming it to create the multiple objects in the scene. This showcases my skills in not only improving the size, readability, and efficiency of the code but also the security of the program by fixing a design flaw that would have allowed for more vulnerabilities just based on the sheer number of unnecessary lines of code. By doing this I also showed my skill in helping to prevent any error or exploit that did unfortunately happen from going either unnoticed for too long or from wasting valuable time by becoming extremely difficult to find and fix buried under the walls of code. 
+
+  One thing that I learned through improving this artifact was how to develop a more security-based mindset and how all the little things can really add up to a major security concern when considered all together and I’m glad I have this knowledge so early on in my career path. Something else I learned or feel like I can fully appreciate now was just how important creating useful module code is for every single part of the project from readability and collaboration to using valued programming skills and reducing vulnerabilities. When I was going over the artifact after performing these enhancements, I was blown away by how much more professional/nicer it looked and how much easier it was to find what I needed. I believed that I could already navigate it perfectly fine so imagining how this improvement would affect everyone else who didn’t create the program has given me a new level of appreciation and has strengthened my resolve to continue to go above and beyond when creating modular code, efficient comments, and formatting. The main challenge that I faced when enhancing artifact 1 was what exactly was I going to use in the reusable code that made the most sense and was still efficient enough to meet my goals. I ended up making the decision to start grouping connected objects together to create a single larger object that I could then transform as needed to create the desired outcome which I found to be a good compromise.
 
 
 ## 4. Artifact 2 Dashboard App: Algorithms and Data Structure Enhancement and Databases Enhancement
 
 [Download Artifact 2 - Original](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%202%20-%20Original.zip)
-### Download Artifact 2 - Enhanced
 
-### Narrative
+[Download Artifact 2 - Enhanced](https://github.com/DavidGreene52/DavidGreene52.github.io/raw/main/Artifact%202%20-%20Enhanced.zip)
+
+  Artifact 2 is a project that creates a program from the base up that imports a database, adds credentials for security, allows a user to modify said database, and creates dashboard app to display the data as an interactable table and geolocation chart. This app also adds filtering options for the user based on the needs of the program. At the time of writing this narrative this artifact was created about six months ago in a class called Advanced Programming Concepts. 
+
+  The reason that I selected this project was because for me it was one of the most comprehensive projects that I have ever worked on and showcases the multiple different aspects involved with created a complete project. The first component of my project that I will point out is the beginning of the program where the imports were handled. This section shows my skill in connecting every level of the project’s development and making sure that the necessary components are imported/initialized which is one of the most basic and important skills for a developer. The next component of the artifact that I will mention is the credentials section of the code because it showcases my ability to create security measures that protect sensitive data from unauthorized access or data loss through the use of well-founded techniques and skills in current computing practices. Another component of this artifact that should be focused on is the update_dashboard(values) section as it showcases my ability to create algorithms and data structures that gather data from a separate database and filter it based on a user’s inputted conditions. This shows my ability to apply basic aspects of computer programming to a project that utilizes multiple levels of coding development instead of just utilizing what is created within a single file. Lastly the update_map(viewData) section of this artifact manipulates the gathered data in order to display it as an interactive geolocation chart which shows my skill to effectively display data using algorithms and structures in an easily understandable method.
+  
+  The first enhancement involved adding additional comments throughout the project by following the industry standard recommendations/practices which resulted in me creating a project that can be more easily collaborated on with coworkers in the field and with those outside the field without related knowledge. Another enhancement that I used my skills in security to accomplish are demonstrated within the CRUD operations where I added new exceptions that anticipate negative exploits in the software’s architecture and design. The first major enhancement to this artifact involved using my skill in algorithms and data structures, which are extremely necessary to be able to thrive in this field, to add a pie chart that pulled the correct information from the data and display it in the most effective way for the user to make better informed decisions going forward. The next major enhancement to this artifact was me adding another security layer to the login process that counts how many attempts are processed and raises an issue when multiple failed attempts are acknowledged. Successfully implementing security focused enhancements like I did are extremely important skills for every single piece of technology that is created. Another major enhancement to this artifact that I accomplished was adding a data mining aspect where the user can see the trends of how many new dogs are usable each year and then can use that data to predict how many will be available in the near future for work. This was done by incorporating a separate option the user can select that will gather all the data related to the desired trend and then displaying it as a pie chart for it to be easily understandable.
+
+  One big thing that I learned through improving this artifact was how having developed a more security-based mindset allowed me to recognize that there were possible security improvements that I could make in places that I never would have recognized before. Something else I learned and can appreciate better now was just how important/useful algorithms and data structures are for connecting and modifying data from sources outside the file containing the main code. This artifact is one of the few that I have worked on that needed this functionality and after gaining broader knowledge about this topic since creating it I can confidently say that having this skill is uncompromisable. When I was going over the artifact after performing these enhancements, I was blown away by how much more professional it looked and how much easier it was to find what I needed when there were enough comments to actually be useful. I thought that I could already navigate and understand it perfectly fine so imagining how the lack of descriptive comments would affect everyone else who didn’t create the program has given me a new level of appreciation for making sure there are enough comments. 
+
+  One of the main challenges that I faced when enhancing artifact 2 was making sure that the data mining algorithms were working correctly and effectively displaying that data within the pie chart format so it could be easily understood by all. I ended up making the decision to gather the data related to the age data column and analyze the trends that show up there because it provides the most useful information for the intended users and company to make more informed decisions about future plans.
 
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DavidGreene52/DavidGreene52.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidGreene52/DavidGreene52.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
